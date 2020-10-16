@@ -8,16 +8,37 @@
   Veri tabanı sayesinde sorgu cümleciğiyle kataloğda basit tarama yapılarak kütüphanede mevcut olup olmadığını sorgulamak ve sorgu sonucunda kitab varsa kitabın temel bilgilerine olanak sağlayarak bu ihtiyaçları karşılayacaktır.
   
  3: Veri tabanında hangi veriler deopolanacak?
-  ISBN
-  Eser Adı
-  Yazar Adı
-  Yayınevi
-  Basım Tarihi
-  Kütüphanede olup olmadığı
-  kitabın fiziksel bilgileri
+  Kitap bilgisi
+  
+  Yazar bilgisi
+  yayınevi bilgisi
+  basım yılı ile ilgili bilgi
+  Kaynağın mevcut bilgisi
+  
   
   
   4:Veri tabanında ne tür veriler depolanacak?
-    -Kaynağın mevcut bilgisi
+   
  
-    -kitabın künye verileri (yazar adı, eser adı gibi)
+    -kitabın  verileri
+       -kitap no 
+      -Yazar Adı
+       -Eser Adı
+       -ISBN
+       -Basım tarihi
+        mevcut durumu
+    
+    -Yazar verisi
+      yazar no
+      yazar adı 
+      yazar soyadı
+      yazarın doğum yılı
+    
+    
+    -yayınevi verisi
+      yayınevi no
+      yayınevi ismi
+      
+    
+   
+    
